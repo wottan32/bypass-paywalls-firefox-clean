@@ -12,7 +12,7 @@
 * [License](#license)
 
 ### Installation
- [Download and install the latest version](https://github.com/magnolia1234-new/bypass-paywalls-firefox-clean/releases/download/v1.7.0.3/bypass_paywalls_clean-1.7.0.3-an+fx.xpi)\
+ [Download and install the latest version](https://github.com/magnolia1234-new/bypass-paywalls-firefox-clean/releases/download/v1.7.0.2/bypass_paywalls_clean-1.7.0.2-an+fx.xpi)\
  Or first visit the [releases page](https://github.com/magnolia1234-new/bypass-paywalls-firefox-clean/releases).\
  Here you can also find a limited permissions version (custom sites not working though).\
  Install add-on by downloading xpi-file (assets).
@@ -165,7 +165,6 @@
 [L'Opinion](https://www.lopinion.fr) –
 [La Dépêche](https://www.ladepeche.fr) –
 [Le Journal du Dimanche](https://lejdd.fr) –
-[Le Monde](https://www.lemonde.fr) -
 [Le Parisien](https://www.leparisien.fr) -
 [Les Échos](https://www.lesechos.fr)* -
 [Libération](https://www.liberation.fr)* –
